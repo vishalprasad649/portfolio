@@ -2,7 +2,7 @@
 
 ## visit at
 ```
-https://piyushsinghania.netlify.app/
+https://vishal-prasad.netlify.app/
 ```
 
 ## Project setup
